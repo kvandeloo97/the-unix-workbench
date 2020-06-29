@@ -799,4 +799,4 @@
 - Apoorv Dankar
 - Ilmars Rauda
 - Ruby K.
- - Katie Vandeloo
+- Katie Vandeloo
